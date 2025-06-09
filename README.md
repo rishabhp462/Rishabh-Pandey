@@ -1,4 +1,3 @@
-# Rishabh-Pandey
 # Hi 👋, I'm Rishabh Pandey  
 ### Business Analyst | Agile | Client Communication | Power BI | SQL 
 
